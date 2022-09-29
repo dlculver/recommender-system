@@ -34,3 +34,4 @@ class LinkedList:
                     current_node.set_next_node(next_node.get_next_node())
                     current_node = None
                 else: current_node = next_node
+                
