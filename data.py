@@ -1,4 +1,4 @@
-types = ['ethics','metaphyics','aesthetics','ontology', 'logic', 'epistemology','political philosophy', 'philosophy of mind','philosophy of science','philosophy of mathematics', 'continental philosophy', 'analytic philosophy', 'ancient philosphy', 'ancient greek and roman philosophy', 'Medieval philosophy', 'Modern and contemporary philosophy', 'western philosophy']
+types = ['ethics','metaphyics','aesthetics', 'logic', 'epistemology','political philosophy', 'philosophy of mind','philosophy of science','philosophy of mathematics', 'philosophy of language', 'existentialism']
 
 
 ## data should consist of title, author, publisher, publication date, some of these may be empty, especially for old stuff or we use modern translations
