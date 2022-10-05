@@ -33,3 +33,5 @@ class LinkedList:
               current_node = None
             else:
               current_node = next_node
+
+    ## the problem is that I need to make a linked lists whose nodes are linked lists themselves, I need

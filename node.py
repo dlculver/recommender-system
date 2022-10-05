@@ -13,5 +13,6 @@ class Node:
         self.next_node = next_node
 ## we need to override str so that we can use the command stringify_list in linked list
     ## otherwise it will only return the location of the nodes, and not their values
-    def __str__(self):
-        return str(self.value)
+
+    # def __str__(self):
+    #     return str(self.value)
